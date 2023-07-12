@@ -7,7 +7,7 @@
         "website": "https://youtube.com/techsidee"
     },
     "logConnections": false,
-    "serverAddress":"http://localhost",
+    "serverAddress":"https://recnet.up.railway.app",
     "targetVersion": null,
     "port": 80,
     "webhook":{
