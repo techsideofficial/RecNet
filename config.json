@@ -9,7 +9,7 @@
     "logConnections": false,
     "serverAddress":"http://localhost",
     "targetVersion": null,
-    "port": 2017,
+    "port": 80,
     "webhook":{
         "console": "",
         "reports": ""
