@@ -1,10 +1,10 @@
 {
     "hostPage": true,
     "instance_info":{
-        "name": "LunarRec",
-        "description": "A LunarRec Instance",
-        "owner": "Instance Owner",
-        "website": "https://example.com"
+        "name": "RecNet",
+        "description": "A 2017 Rec Room Server",
+        "owner": "TechSide",
+        "website": "https://youtube.com/techsidee"
     },
     "logConnections": false,
     "serverAddress":"http://localhost",
