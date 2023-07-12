@@ -9,7 +9,7 @@
     "logConnections": false,
     "serverAddress":"https://recnet.up.railway.app",
     "targetVersion": null,
-    "port": 80,
+    "port": 5888,
     "webhook":{
         "console": "",
         "reports": ""
